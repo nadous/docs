@@ -1,2 +1,2 @@
 # Rhizomatics documentation
-avadoc for [rhizomatics](https://framagit.org/haberman/rhizomatics). Those pages are being server [here](https://nadous.github.io/docs/rhizomatics/).
+Javadoc for [rhizomatics](https://framagit.org/haberman/rhizomatics). Those pages are being server [here](https://nadous.github.io/docs/rhizomatics/).
