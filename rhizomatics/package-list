@@ -1,8 +1,10 @@
 haberman.rhizomatics
 haberman.rhizomatics.data
 haberman.rhizomatics.events
+haberman.rhizomatics.fsm
+haberman.rhizomatics.fsm.entities
+haberman.rhizomatics.geo
 haberman.rhizomatics.graphics
-haberman.rhizomatics.map
+haberman.rhizomatics.map.overlays
 haberman.rhizomatics.map.polys
 haberman.rhizomatics.utils
-haberman.rhizomatics.views
