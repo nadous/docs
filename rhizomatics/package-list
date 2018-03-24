@@ -3,8 +3,11 @@ haberman.rhizomatics.data
 haberman.rhizomatics.events
 haberman.rhizomatics.fsm
 haberman.rhizomatics.fsm.entities
-haberman.rhizomatics.geo
-haberman.rhizomatics.graphics
-haberman.rhizomatics.map.overlays
-haberman.rhizomatics.map.polys
+haberman.rhizomatics.gl
+haberman.rhizomatics.gl.drawers
+haberman.rhizomatics.map
+haberman.rhizomatics.ui
+haberman.rhizomatics.ui.anim
+haberman.rhizomatics.ui.pager
+haberman.rhizomatics.ui.toggle
 haberman.rhizomatics.utils
